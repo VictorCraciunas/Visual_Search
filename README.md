@@ -44,7 +44,7 @@ VisualPathfinding/
 ## Installation & Running the Application
 ### 1. Clone the Repository
 ```
-git clone https://github.com/yourusername/VisualSearch.git
+git clone https://github.com/VictorCraciunas/VisualSearch.git
 cd VisualSearch
 ```
 
